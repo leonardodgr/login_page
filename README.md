@@ -16,19 +16,19 @@ Uma página de login simples e responsiva criada com **React** e **CSS**.
 
 ## ⚙️ Como rodar localmente
 
-1. Clone o repositório:
+Siga os passos abaixo para rodar o projeto localmente:  
+
+1. **Clone o repositório:**  
+   ```bash
    git clone https://github.com/leonardodgr/Login_Page.git
-   
-3. Acesse a pasta do projeto:
+2. **Acesse a pasta do projeto:**  
+   ```bash
    cd Login_Page
-   
-4. Instale as dependências:
+3. **Instale as dependências:**  
+   ```bash
    npm install
-   
-4.Rode o projeto:
+4. **Inicie o servidor de desenvolvimento:**  
+   ```bash
    npm run dev
-
-📷 Screenshot:
-![Tela de login](???)
-
+<br>
 Feito com 💻 por Leonardo Gross - Dev.
