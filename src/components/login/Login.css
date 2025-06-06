@@ -96,3 +96,8 @@
 .signup-link p a:hover {
   text-decoration: underline;
 }
+
+.input-field input:focus {
+  border-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+}
