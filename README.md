@@ -1,12 +1,37 @@
-# React + Vite
+# Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma página de login simples e responsiva criada com **React** e **CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Expanding the ESLint configuration
+## 🛠️ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Interface de login com design moderno
+- Responsiva para diferentes tamanhos de tela
+- Validação básica de campos
+
+## ⚙️ Como rodar localmente
+
+Siga os passos abaixo para rodar o projeto localmente:  
+
+1. **Clone o repositório:**  
+   ```bash
+   git clone https://github.com/leonardodgr/Login_Page.git
+2. **Acesse a pasta do projeto:**  
+   ```bash
+   cd Login_Page
+3. **Instale as dependências:**  
+   ```bash
+   npm install
+4. **Inicie o servidor de desenvolvimento:**  
+   ```bash
+   npm run dev
+## Link
+Acesse o site do projeto [clicando aqui](https://login-page-ten-smoky.vercel.app/).
+<br>
+## Créditos
+Feito com 💻 por Leonardo Gross - Dev.
